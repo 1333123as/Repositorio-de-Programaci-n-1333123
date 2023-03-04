@@ -1,0 +1,50 @@
+// Crear menú de un restaurante para poder despachar pedidos
+//Items: hamburguesas, aguas, papas, helado, pizza, pastas, postres
+//Mostrar menú
+//ordenar
+//pago
+
+//varibles
+using System.Linq.Expressions;
+int hamburguesas, pasta, pizza, postre, helado, papas, bebidas;
+double total = 0;
+double menu1 = 40.0;
+double menu2 = 35.0;
+double menu3 = 30.0;
+double menu4 = 27.0;
+double menu5 = 20.0;
+double menu6 = 28.0;
+double menu7 = 10.0;
+
+Console.WriteLine("El menú es: ");
+
+Console.WriteLine("1. Hamburguesas de lomito Q" + menu1);
+Console.WriteLine("Cuántas desea ordenar?");
+hamburguesas = int.Parse(Console.ReadLine());
+
+Console.WriteLine("2. Pasta al pesto que desea ordenar Q" + menu2);
+Console.WriteLine("Cuántas desea ordenar?");
+pasta = int.Parse(Console.ReadLine());
+
+Console.WriteLine("3. Pizza de pepperoni que desea ordenar Q" + menu3);
+Console.WriteLine("Cuántas desea ordenar?");
+pizza = int.Parse(Console.ReadLine());
+
+Console.WriteLine("4. Postres - pastel triple chocolate que desea ordernar Q" + menu4);
+Console.WriteLine("Cuántas desea ordenar?");
+postre = int.Parse(Console.ReadLine());
+
+Console.WriteLine("5. helado - galleta que desea ordenar Q" + menu5);
+Console.WriteLine("Cuántas desea ordenar?");
+helado = int.Parse(Console.ReadLine());
+
+Console.WriteLine("6. Papas fritas con queso que desea ordenar Q" + menu6);
+Console.WriteLine("Cuántas desea ordenar?");
+papas = int.Parse(Console.ReadLine());
+
+Console.WriteLine("7. Bebidas que desea ordenar Q" + menu7);
+Console.WriteLine("Cuántas desea ordenar?");
+bebidas = int.Parse(Console.ReadLine());
+
+total = (hamburguesas * menu1)+(pasta * menu2)+(pizza * menu3)+(postre * menu4)+(helado * menu5)+(papas * menu6)+(bebidas * menu7);
+Console.WriteLine("Total a pagar: " + total);
