@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\bin\Debug\net6.0\1333123_Bisiesto.exe
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\bin\Debug\net6.0\1333123_Bisiesto.deps.json
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\bin\Debug\net6.0\1333123_Bisiesto.runtimeconfig.json
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\bin\Debug\net6.0\1333123_Bisiesto.dll
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\bin\Debug\net6.0\1333123_Bisiesto.pdb
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.dll
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\refint\1333123_Bisiesto.dll
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.pdb
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\1333123_Bisiesto.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\1333123_Bisiesto\1333123_Bisiesto\obj\Debug\net6.0\ref\1333123_Bisiesto.dll
